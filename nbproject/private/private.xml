@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/java/com/boa/servlet/ConnectionbillerServlet.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>76</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="WebReconData"/>
+        <group name="yabes last"/>
+        <group name="OpsBackOffice">
+            <file>file:/home/syukur/File%20kantor/sourcecode/project%20matajari/back%20office/OpsBackOffice/OpsBackOffice/web/list_tpsaldo_biller.jsp</file>
+            <file>file:/home/syukur/File%20kantor/sourcecode/project%20matajari/back%20office/OpsBackOffice/OpsBackOffice/web/list_transaction_yabes.jsp</file>
+            <file>file:/home/syukur/File%20kantor/sourcecode/project%20matajari/back%20office/OpsBackOffice/OpsBackOffice/web/sidebar_list_tpsaldo_biller.jsp</file>
+            <file>file:/home/syukur/File%20kantor/sourcecode/project%20matajari/back%20office/OpsBackOffice/OpsBackOffice/web/sidebar_list_transaction_yabes.jsp</file>
+        </group>
+        <group name="YABES PPOB MATAJARI"/>
+        <group name="QUANTUM PPOB MATAJARI">
+            <file>file:/D:/Iqbal/MATAJARI/QUANTUM%20PPOB%20MATAJARI/QMAPPOB/matajariops/src/java/com/obo/dao/MappingAgent.java</file>
+        </group>
+        <group name="QUANTUM"/>
+        <group name="agent &amp; h2h"/>
+        <group name="h2h">
+            <file>file:/D:/project%20kerja/QUANTUM/agent/backofficeAgent/src/java/com/boa/servlet/UserYabesServlet.java</file>
+            <file>file:/D:/project%20kerja/QUANTUM/agent/backofficeAgent/web/WelcomePage.jsp</file>
+            <file>file:/D:/project%20kerja/QUANTUM/agent/backofficeAgent/web/header.jsp</file>
+            <file>file:/D:/project%20kerja/QUANTUM/agent/backofficeAgent/src/java/com/boa/util/DatabaseProcess.java</file>
+        </group>
+        <group name="agent"/>
+        <group name="web"/>
+        <group name="Quantum Middleware"/>
+        <group name="PrimeCash_ppob"/>
+        <group name="ppn">
+            <file>file:/D:/project%20kerja/Matajari%20FinTech%20-%20Cuso/BACKOFFICE/backofficecuso_ppob/web/list_transaction_ppob.jsp</file>
+            <file>file:/D:/project%20kerja/Matajari%20FinTech%20-%20Cuso/BACKOFFICE/backofficecuso_ppob/src/java/com/bo/servlet/ReportyabesServlet.java</file>
+        </group>
+        <group/>
+        <group name="new BO RC">
+            <file>file:/D:/product/RELIGION%20COMMUNITY%20BACKOOFICE/BACKOFFICE/BOWEB_FESFAM/src/java/com/bo/servlet/AdsServlet.java</file>
+            <file>file:/D:/product/RELIGION%20COMMUNITY%20BACKOOFICE/BACKOFFICE/BOWEB_FESFAM/src/java/com/bo/servlet/AgentKopServlet.java</file>
+            <file>file:/D:/product/RELIGION%20COMMUNITY%20BACKOOFICE/BACKOFFICE/BOWEB_FESFAM/web/index.jsp</file>
+            <file>file:/D:/product/RELIGION%20COMMUNITY%20BACKOOFICE/BACKOFFICE/BOWEB_FESFAM/src/java/com/boa/parameter/StaticParameter.java</file>
+            <file>file:/D:/product/RELIGION%20COMMUNITY%20BACKOOFICE/BACKOFFICE/BOWEB_FESFAM/web/css/login.css</file>
+        </group>
+        <group name="BACKOFFICE FES FAM"/>
+        <group name="QMA Group">
+            <file>file:/D:/project%20kerja/SUHANDA/RELIGION%20COMMUNITY%20BACKOOFICE/BACKOFFICE/BOWEB_FESFAM/src/java/com/bo/servlet/SettlementServlet.java</file>
+        </group>
+        <group name="Religi Group"/>
+        <group name="POS Group"/>
+        <group name="karang_taruna">
+            <file>file:/D:/project%20kerja/SUHANDA/RELIGION%20COMMUNITY%20BACKOOFICE/fesfam/BOWEB_FESFAM/web/add_agent_kop.jsp</file>
+        </group>
+        <group name="FESFAM"/>
+    </open-files>
+</project-private>
