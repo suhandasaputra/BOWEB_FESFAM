@@ -39,7 +39,6 @@
             <file>file:/D:/project%20kerja/Matajari%20FinTech%20-%20Cuso/BACKOFFICE/backofficecuso_ppob/web/list_transaction_ppob.jsp</file>
             <file>file:/D:/project%20kerja/Matajari%20FinTech%20-%20Cuso/BACKOFFICE/backofficecuso_ppob/src/java/com/bo/servlet/ReportyabesServlet.java</file>
         </group>
-        <group/>
         <group name="new BO RC">
             <file>file:/D:/product/RELIGION%20COMMUNITY%20BACKOOFICE/BACKOFFICE/BOWEB_FESFAM/src/java/com/bo/servlet/AdsServlet.java</file>
             <file>file:/D:/product/RELIGION%20COMMUNITY%20BACKOOFICE/BACKOFFICE/BOWEB_FESFAM/src/java/com/bo/servlet/AgentKopServlet.java</file>
@@ -56,6 +55,18 @@
         <group name="karang_taruna">
             <file>file:/D:/project%20kerja/SUHANDA/RELIGION%20COMMUNITY%20BACKOOFICE/fesfam/BOWEB_FESFAM/web/add_agent_kop.jsp</file>
         </group>
-        <group name="FESFAM"/>
+        <group name="FESFAM">
+            <file>file:/D:/project%20kerja/SUHANDA/RELIGION%20COMMUNITY%20BACKOOFICE/fesfam/BOWEB_FESFAM/src/java/com/bo/servlet/DatasourceLookup2.java</file>
+        </group>
+        <group>
+            <file>file:/D:/project%20kerja/SUHANDA/RELIGION%20COMMUNITY%20BACKOOFICE/fesfam/BOWEB_FESFAM/src/java/com/bo/servlet/AgentServlet.java</file>
+            <file>file:/D:/project%20kerja/SUHANDA/RELIGION%20COMMUNITY%20BACKOOFICE/fesfam/BOWEB_FESFAM/src/java/com/bo/servlet/CrudBillerproductServlet.java</file>
+            <file>file:/D:/project%20kerja/SUHANDA/RELIGION%20COMMUNITY%20BACKOOFICE/fesfam/BOWEB_FESFAM/src/java/com/boa/util/DatabaseProcess.java</file>
+            <file>file:/D:/project%20kerja/SUHANDA/RELIGION%20COMMUNITY%20BACKOOFICE/fesfam/BOWEB_FESFAM/src/java/com/bo/servlet/BlacklistServlet.java</file>
+            <file>file:/D:/project%20kerja/SUHANDA/RELIGION%20COMMUNITY%20BACKOOFICE/fesfam/BOWEB_FESFAM/src/java/com/bo/servlet/DatasourceLookup2.java</file>
+            <file>file:/D:/project%20kerja/SUHANDA/RELIGION%20COMMUNITY%20BACKOOFICE/fesfam/BOWEB_FESFAM/src/java/com/bo/servlet/LoginCRServlet.java</file>
+            <file>file:/D:/project%20kerja/SUHANDA/RELIGION%20COMMUNITY%20BACKOOFICE/fesfam/BOWEB_FESFAM/src/java/com/bo/servlet/ConnectionbillerServlet.java</file>
+            <file>file:/D:/project%20kerja/SUHANDA/RELIGION%20COMMUNITY%20BACKOOFICE/fesfam/BOWEB_FESFAM/src/java/com/bo/servlet/LoginUDServlet.java</file>
+        </group>
     </open-files>
 </project-private>

@@ -5,12 +5,9 @@
  */
 package com.bo.servlet;
 
-import com.boa.model.Agentyabes;
 import com.boa.model.Connectionbiller;
 import com.boa.parameter.StaticParameter;
-import com.boa.util.DatabaseProcess;
 import com.boa.function.MessageProcess;
-import com.boa.function.SHA256Enc;
 import com.boa.function.SendHttpProcess;
 import com.boa.function.impl.MessageProcessImpl;
 import com.boa.parameter.FieldParameter;
@@ -32,7 +29,6 @@ import javax.servlet.http.HttpSession;
  */
 public class ConnectionbillerServlet extends HttpServlet {
 
-    DatabaseProcess dp = new DatabaseProcess();
 
     private static final long serialVersionUID = 1L;
     private static String UPDATE = "update_connection_biller.jsp";
